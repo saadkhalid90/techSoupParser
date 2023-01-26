@@ -1,0 +1,16 @@
+{
+  "name": "techsoupdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "skhalid",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^7.8.2",
+    "d3-dsv": "^3.0.1"
+  }
+}

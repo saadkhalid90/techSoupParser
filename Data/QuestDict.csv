@@ -1,0 +1,48 @@
+"QuestionIndex","Question","ResponseOptions","Values","Notes"
+11.1,"The following is designed to understand the relationship between your work and the internet. To what extent do you agree or disagree with the following?","Internet access is critical in your organization's daily operations","% ""Strongly Agree"" + % ""Agree""","Done"
+11.2,"The following is designed to understand the relationship between your work and the internet. To what extent do you agree or disagree with the following?","Internet access is critical for you to reach the people you serve","% ""Strongly Agree"" + % ""Agree""","Done"
+11.3,"The following is designed to understand the relationship between your work and the internet. To what extent do you agree or disagree with the following?","The Internet if your most powerful communications tool","% ""Strongly Agree"" + % ""Agree""","Done"
+11.4,"The following is designed to understand the relationship between your work and the internet. To what extent do you agree or disagree with the following?","Internet access is critical for you to reach funders or do fundraising to support your programs","% ""Strongly Agree"" + % ""Agree""","Done"
+11.5,"The following is designed to understand the relationship between your work and the internet. To what extent do you agree or disagree with the following?","The internet is critical to your ability to support the communities you seek to serve.","% ""Strongly Agree"" + % ""Agree""","Done"
+13,"A lack of internet access, tools, or skills amongst staff or those you serve has limited your organization's ability to conduct work","True or False","% ""True""","Done"
+14.1,"What are the top 3 barriers (if any) your organization experiences in using the internet in your work? Select three.","Lack of digital skills","Percent checked","Done"
+14.2,"What are the top 3 barriers (if any) your organization experiences in using the internet in your work? Select three.","Speed of internet","Percent checked","Done"
+14.3,"What are the top 3 barriers (if any) your organization experiences in using the internet in your work? Select three.","Reliability of internet","Percent checked","Done"
+15.1,"What are the top 3 barriers (if any) the people you serve experience in taking full advantage of the internet? Select three.","Lack of digital skills","Percent checked","Done"
+15.2,"What are the top 3 barriers (if any) the people you serve experience in taking full advantage of the internet? Select three.","Speed of internet","Percent checked","Done"
+15.3,"What are the top 3 barriers (if any) the people you serve experience in taking full advantage of the internet? Select three.","Reliability of internet","Percent checked","Done"
+18.1,"You noted the internet is NOT reliable for you or the people you serve. Why? Select all that apply.","Poor quality of infrastructure","Percent checked",
+18.2,"You noted the internet is NOT reliable for you or the people you serve. Why? Select all that apply.","Issues with the internet service provider","Percent checked",
+18.3,"You noted the internet is NOT reliable for you or the people you serve. Why? Select all that apply.","Government shutting down the internet","Percent checked",
+16.1,"The following assesses if you have the digital tools needed for your work. To what extent do you agree or disagree with the following statements:","You have access to the internet where you normally work","Percent ""strongly agree""","Done"
+17.1,"Thinking about the majority of the people you serve, to what extent do you agree or disagree with the following statements:","The people you serve have access to the internet","Percent ""strongly agree""","Done"
+23.1,"How does your organization find the costs of the following items:","Tech Support","Percent ""expensive"" + 
+Percent ""can't afford it""","Done"
+23.2,"How does your organization find the costs of the following items:","Software","Percent ""expensive"" + 
+Percent ""can't afford it""","Done"
+23.3,"How does your organization find the costs of the following items:","Computers","Percent ""expensive"" + 
+Percent ""can't afford it""","Done"
+23.4,"How does your organization find the costs of the following items:","Percent choosing all options","Percent ""expensive"" + 
+Percent ""can't afford it"" for all options","Done"
+24.1,"The people you serve find the costs of the following items:","Tech Support","Percent ""expensive"" + 
+Percent ""can't afford it""","Done"
+24.2,"The people you serve find the costs of the following items:","Software","Percent ""expensive"" + 
+Percent ""can't afford it""","Done"
+24.3,"The people you serve find the costs of the following items:","Computers","Percent ""expensive"" + 
+Percent ""can't afford it""","Done"
+24.4,"The people you serve find the costs of the following items:","Percent choosing all options","Percent ""expensive"" + 
+Percent ""can't afford it"" for all options","Done"
+35.1,"To what extent do you agree or disagree with the following statements?","You believe that Internet access is a basic right","Percent ""strongly agree"" + 
+Percent ""agree""","Done"
+35.2,"To what extent do you agree or disagree with the following statements?","To your knowledge, your government has policies that indicate that access to the internet is a right.","Percent ""strongly agree"" + 
+Percent ""agree""","Done"
+31,"You generally feel safe online.","n/a","Percent ""strongly disagree"" + 
+Percent ""disagree""","Done"
+32,"The people you serve generally feel safe online.","n/a","Percent ""strongly disagree"" + 
+Percent ""disagree""","Done"
+28.1,"The following question is about skills needed to effectively use technology. To what extent do you agree or disagree with the following:","Your organization has a strategy to adopt and use digital tools to best support your mission","Percent ""strongly agree""","Done"
+28.2,"The following question is about skills needed to effectively use technology. To what extent do you agree or disagree with the following:","Employees of your organization are well trained for the devices and software they use","Percent ""strongly agree""","Done"
+29.1,"Does your organization provide digital literacy or digital skill building?","n/a","Percent ""yes""","Done"
+28.3,"The following question is about skills needed to effectively use technology. To what extent do you agree or disagree with the following:","The people you serve have access to digital skills training","Percent ""strongly agree""","Done"
+30.1,"Where do people you serve go to get training or to build digital skills? [Check all that apply]","Local non-profit or civil society organization – in-person","Percent checked","Done. Note that if I count either in person or online CSO training, this jumps to 57%."
+38,"Which of the following content types are readily available in the languages spoken by the people you serve? Check all that apply. *","Percent choosing each option (out of 11) ranked from low to high with lowest three highlighted","Percent Checked","Need to discuss - see notes"
